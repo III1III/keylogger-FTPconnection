@@ -5,10 +5,10 @@ _
 _
 _
 _
-_
+🐦
 .py into .exe using:
 pyinstaller --onefile --noconsole a.py
-_
+🐦
 _
 _
 _

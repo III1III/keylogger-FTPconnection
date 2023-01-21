@@ -1,4 +1,0 @@
-#pip install ftplib
-
-
-#pip install pynput

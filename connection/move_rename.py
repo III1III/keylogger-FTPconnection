@@ -1,6 +1,10 @@
 import shutil
+import random
+import time
 
-file_path = "C:\example\file.exe"
-hidden_path = "C:\example\hidden_folder\file.exe"
-
-shutil.move(file_path, hidden_path)
+while True:
+    file_path = "C:\example\file.exe"
+    hidden_folder = "C:\example\hidden_folder"
+    hidden_path = hidden_folder + "\\" + str(random.randint(1,100)) + "file.exe"
+    shutil.move(file_path, hidden_path)
+    time.sleep(180)

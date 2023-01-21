@@ -1,18 +1,18 @@
 libraries:
 #pip install ftplib
 #pip install pynput
-_
-_
-_
-_
+
+
+
+
 🐦
 .py into .exe using:
 pyinstaller --onefile --noconsole a.py
 🐦
-_
-_
-_
-_
+
+
+
+
 Numpad input:
 1 = <97>
 2 = <98>

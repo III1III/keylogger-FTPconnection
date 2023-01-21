@@ -8,7 +8,6 @@ libraries:
 
 .py into .exe using:
 
-
 pyinstaller --onefile --noconsole a.py
 
 
